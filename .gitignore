@@ -1,0 +1,7 @@
+*.sln
+.vs/
+bin/
+build/
+virtual-oscilloscope/obj/
+virtual-oscilloscope/*.vcxproj
+virtual-oscilloscope/*.vcxproj.*
